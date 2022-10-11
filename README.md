@@ -3,6 +3,6 @@ I am a former strategy analyst turned business analyst who is passionate about d
 
 📫 If you wanna reach me, please send an email to: josephine.c@qq.com
 
-## 📃 My latest case study
+## 📃 My latest projects
 
 [Leads Analysis & Optimization (Chinese)](https://github.com/JosieChow/CS-Leads-Anlysis-Optimization/blob/c5fa805bdb85116ea37ba9e19fde31405b93f731/README.md)
