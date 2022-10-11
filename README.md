@@ -5,4 +5,6 @@ I am a former strategy analyst turned business analyst who is passionate about d
 
 ## 📃 My latest projects
 
-[Leads Analysis & Optimization (Chinese)](https://github.com/JosieChow/CS-Leads-Anlysis-Optimization/blob/c5fa805bdb85116ea37ba9e19fde31405b93f731/README.md)
+#### [Case study:Leads Analysis & Optimization (Chinese)](https://github.com/JosieChow/CS-Leads-Anlysis-Optimization/blob/c5fa805bdb85116ea37ba9e19fde31405b93f731/README.md)
+#### [Sales Overview Dashboard](https://public.tableau.com/app/profile/zixin.zhou8829/viz/VisualizationKPI-B/Dashboard1)
+#### [Dashboard of sales v.s profits by subcategories](https://public.tableau.com/app/profile/zixin.zhou8829/viz/SuperStoreManagementDashboard_16654273231440/ManagementDashboard)
