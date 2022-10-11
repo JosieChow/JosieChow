@@ -1,5 +1,5 @@
 ## 👩🏻‍💻 Hi there!
-I am a former strategy analyst turned business analyst who is passionate about data analystics, project management, long run 🏃🏻‍♀️, and my cat🐱. My repositories feature SQL code, R code, and Case Studies that I have built.  
+I am a former strategy analyst turned business analyst who is passionate about data analystics, project management, long run 🏃🏻‍♀️, and my cat🐱. My repositories feature SQL code, R code, Visualization, and Case Studies that I have built.  
 
 📫 If you wanna reach me, please send an email to: josephine.c@qq.com
 
